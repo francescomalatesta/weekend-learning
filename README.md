@@ -29,5 +29,8 @@ Glad to hear that! Take a look to the [contribution guidelines](CONTRIBUTING.md)
   - _**Frameworks**_
     - Learn the Laravel Basics: *Laravel is a widely used PHP full stack framework that you can use to build a project in a very short time. Sometimes in a weekend. The [Basic Task List](https://laravel.com/docs/5.2/quickstart) page in the documentation can be a perfect start.*;
 
+- **Tools**
+  - Git: *Git is the actual standard for source code versioning. It's like saving your game and resume it from the last checkpoint if something goes wrong... [try this nice start guide](http://rogerdudler.github.io/git-guide/), you'll never go back!*;
+
 - **Miscellaneous**
   - Learn Markdown: *Markdown is a plain text formatting syntax designed to be converted to HTML. It's often used for readme files. This list is written in Markdown! [The official specification](http://daringfireball.net/projects/markdown/) can be a good start to learn it.*;
