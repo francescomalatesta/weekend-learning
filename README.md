@@ -39,7 +39,17 @@ Glad to hear that! Take a look to the [contribution guidelines](CONTRIBUTING.md)
 
 - **Frameworks**
   - **_Learn Laravel Basics_**: *Laravel is a widely used PHP full stack framework that you can use to build a project in a very short time. Sometimes in a weekend. The [Basic Task List](https://laravel.com/docs/5.2/quickstart) page in the documentation can be a perfect start.*;
+  - **_Learn Phalcon_**: *Phalcon is a C compiled extension for apache , nginx or php integrated webserver. It made with zephir-lang, a must to go very fast.*;
+  - **_Slim 3 - dic version_**: *Slim is an amazing php micro framework based on psr standards, my master Ashley Kitson improved adding Symfony2 dic component. Well I just love [this framework](https://github.com/the-matrix/Slim-Dic-Example) and I really hope to be able to improve with zephir-lang soon!*;
 
+- **Compiled php**
+  - **_Learn Zephir-lang_**: *In a functional world which need shared nothing architecture php is losing market power and credibility. Php developer must improve their Kempo. In order to do this I'll suggest to study [zephir-lang](http://zephir-lang.com/) a C compiled php version.*;
+  - **_Learn HHVM_**: *Facebook JIT compiled php. You can find [here](https://docs.hhvm.com/hhvm/) the original documentation, it's very similar to the jvm principle, well I suggest you to don't expect all time benefits, it works and it works good but only in certain situation. However a must.*;
+      
+- **Testing and Delivery**
+  - **_Learn Php Unit_**: *Testing our application is the only way to know our php. It's the scientific principle applied for development, all developers must test their work if they want to avoid spaghetti! Here a [very good link](https://jtreminio.com/2013/03/unit-testing-tutorial-introduction-to-phpunit/)*;
+  - **_Learn Behat_**: *If Unit testing it's not enough for you to know properly your application... well then you're enlightened and if you live in uk your earning a lot of money. If you don't maybe you would like to study from [this link](http://docs.behat.org/en/v3.0/)*;
+       
 #### Tools
 
 - **Fundamentals**
