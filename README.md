@@ -42,8 +42,10 @@ Glad to hear that! Take a look to the [contribution guidelines](CONTRIBUTING.md)
 
 #### Tools
 
-- **_Git_**: *Git is the actual standard for source code versioning. It's like saving your game and resume it from the last checkpoint if something goes wrong... [try this nice start guide](http://rogerdudler.github.io/git-guide/), you'll never go back!*;
-- **_MJML_**: *[MJML](http://www.mjml.io) is a templating engine by the fine folks at mailjet.com, built on React.js. It enables you to code responsive emails with a really simple but flexible syntax, that will be automatically compiled into HTML tables for you to use in your email marketing service of choice.
+- **Fundamentals**
+  - **_Git_**: *Git is the actual standard for source code versioning. It's like saving your game and resume it from the last checkpoint if something goes wrong... [try this nice start guide](http://rogerdudler.github.io/git-guide/), you'll never go back!*;
+- **Emails**:
+  - **_MJML_**: *[MJML](http://www.mjml.io) is a templating engine by the fine folks at mailjet.com, built on React.js. It enables you to code responsive emails with a really simple but flexible syntax, that will be automatically compiled into HTML tables for you to use in your email marketing service of choice.*;
 
 #### Miscellaneous
 
