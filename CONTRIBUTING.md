@@ -9,7 +9,7 @@ All you have to know is that the list is divided into *Categories*. Every catego
 - **_Activity_**: *activity description*
 - **_Activity2_**: *activity2 description*
 
-#### **Category2 Name**
+#### Category2 Name
 - **Subcategory Name**
   - **_Activity_**: *activity description*
   - **_Activity2_**: *activity2 description*
