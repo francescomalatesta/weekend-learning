@@ -18,7 +18,7 @@ All you have to know is that the list is divided into *Categories*. Every catego
 So:
 
 - the **Category Name** will be an header (H4);
-- the **Subcategory Name**, if present, will be both bold and italic;
+- the **Subcategory Name**, if present, will be bold;
 - the **_Activity_** name will be both bold and italic;
 - the *activity description* will be italic;
 - there will be a whiteline between two categories;
