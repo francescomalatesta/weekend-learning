@@ -23,6 +23,7 @@ Glad to hear that! Take a look to the [contribution guidelines](CONTRIBUTING.md)
 - [Methodologies](#methodologies)
 - [Protocols](#protocols)
 - [PHP](#php)
+- [Javascript](#javascript)
 - [Tools](#tools)
 - [Miscellaneous](#miscellaneous)
 
@@ -39,6 +40,12 @@ Glad to hear that! Take a look to the [contribution guidelines](CONTRIBUTING.md)
 
 - **Frameworks**
   - **_Learn Laravel Basics_**: *Laravel is a widely used PHP full stack framework that you can use to build a project in a very short time. Sometimes in a weekend. The [Basic Task List](https://laravel.com/docs/5.2/quickstart) page in the documentation can be a perfect start.*;
+
+#### Javascript
+
+- **NodeJS**
+  - **_Beginner Overview on NodeJS_**: *Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. You probably have seen many articles and sites, here and there on the web, talking about it. I have found [this really good introductory article](http://www.sitepoint.com/a-beginner-splurge-in-node-js/) to move your first steps in this world*;
+  - **_Beginner Guide on NPM_**: *npm is the NodeJS tool used to install and manage dependencies. You can use to install packages both locally (for a specific project) and globally (making it available to the entire system). [This article on Sitepoint](http://www.sitepoint.com/beginners-guide-node-package-manager/) is a nice starter to explore it.*;
 
 #### Tools
 
