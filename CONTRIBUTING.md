@@ -25,6 +25,8 @@ So:
 
 Also, if you're creating a new category, **don't forget to add it to index!**
 
+Another suggestion: **make small suggestions, not big ones**.
+
 All you will have to do is to make a pull request for new item/items. If the category for your item does not exist, feel free to suggest a new one. The same goes for subcategories. **Just be compliant with the given rules.**
 
 Thank you! :)
