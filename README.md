@@ -57,6 +57,10 @@ Many other developers [already added something](https://github.com/francescomala
   - **_Beginner Overview on NodeJS_**: *Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. You probably have seen many articles and sites, here and there on the web, talking about it. I have found [this really good introductory article](http://www.sitepoint.com/a-beginner-splurge-in-node-js/) to move your first steps in this world*;
   - **_Beginner Guide on NPM_**: *npm is the NodeJS tool used to install and manage dependencies. You can use to install packages both locally (for a specific project) and globally (making it available to the entire system). [This article on Sitepoint](http://www.sitepoint.com/beginners-guide-node-package-manager/) is a nice starter to explore it.*;
   - **_Practice with NodeJS technologies_**: *You can learn Node.js and similar javascript technologies through interactive exercises by simply installing workshops using npm. All the information to do that are in the official site  [Nodeschool](http://nodeschool.io/).*;
+- **ReactJS**
+  - **_Beginner Overview on ReactJS_**: *React is a JavaScript library for creating user interfaces by Facebook and Instagram. Many people choose to think of React as the V in MVC. ReactJS was born to building large applications with data that changes over time. The Facebook Getting Started is great to begin [Facebook Getting Started](https://facebook.github.io/react/docs/getting-started.html). Also [Facebook Guides](https://facebook.github.io/react/docs/why-react.html) are great.*;
+  - **_ReactJS How To_**: *ReactJS is just a "UI Components builder", but it alone is useless. A great resource to study his ecosystem is [Pete Hunt's ReactJS How To](https://github.com/petehunt/react-howto)*;
+  - **_Build your First ReactJS App_**: *Egghead created a lot of valid basic ReactJS tutorials. One of these is [Build your first ReactJS App](https://egghead.io/series/build-your-first-react-js-application)*;  
 
 #### Tools
 
