@@ -46,6 +46,8 @@ Glad to hear that! Take a look to the [contribution guidelines](CONTRIBUTING.md)
   - **_Git_**: *Git is the actual standard for source code versioning. It's like saving your game and resume it from the last checkpoint if something goes wrong... [try this nice start guide](http://rogerdudler.github.io/git-guide/), you'll never go back!*;
 - **Emails**:
   - **_MJML_**: *[MJML](http://www.mjml.io) is a templating engine by the fine folks at mailjet.com, built on React.js. It enables you to code responsive emails with a really simple but flexible syntax, that will be automatically compiled into HTML tables for you to use in your email marketing service of choice.*;
+- **Virtualization**
+  - **_Docker_**: *Docker is an awesome tool that you can use to wrap your application in many isolated units, called "containers", and quickly deploy them everywhere. It's like virtualization, but without hardware/os virtualization. That's why it's one of the most used solution nowadays. [This video series](https://training.docker.com/self-paced-training) (just ~3hrs) can give you a nice overview of the thing.*;
 
 #### Miscellaneous
 
