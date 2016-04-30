@@ -23,6 +23,8 @@ So:
 - the *activity description* will be italic;
 - there will be a whiteline between two categories;
 
+Also, if you're creating a new category, **don't forget to add it to index!**
+
 All you will have to do is to make a pull request for new item/items. If the category for your item does not exist, feel free to suggest a new one. The same goes for subcategories. **Just be compliant with the given rules.**
 
 Thank you! :)
