@@ -16,6 +16,8 @@ So, I decided to create **a list of things that I could learn in a weekend**!
 
 Glad to hear that! Take a look to the [contribution guidelines](CONTRIBUTING.md).
 
+Many other developers [already added something](https://github.com/francescomalatesta/weekend-learning/graphs/contributors)!
+
 ## The List
 
 ### Index
