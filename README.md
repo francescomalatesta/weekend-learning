@@ -46,10 +46,10 @@ Many other developers [already added something](https://github.com/francescomala
   - **_Learn Symfony Basics_**: *Symfony is a set of PHP Components, a Web Application framework, a Philosophy, and a Community — all working together in harmony. The [Symfony Book](http://symfony.com/doc/current/book/index.html) is the main resource to start.*;
 
 - **ORM**
-  - **_Learn Doctrine ORM_**: *Doctrine is an object-relational mapper (ORM) for PHP 5.4+ that provides transparent persistence for PHP objects. It uses the Data Mapper pattern at the heart, aiming for a complete separation of your domain/business logic from the persistence in a relational database management system. Look at [this page](http://docs.doctrine-project.org/projects/doctrine-orm/en/latest/tutorials/getting-started.html) to get started with Doctrine ORM.*;
+  - **_Learn the basics of Doctrine ORM_**: *Doctrine is an object-relational mapper (ORM) for PHP 5.4+ that provides transparent persistence for PHP objects. It uses the Data Mapper pattern at the heart, aiming for a complete separation of your domain/business logic from the persistence in a relational database management system. Look at [this getting started](http://docs.doctrine-project.org/projects/doctrine-orm/en/latest/tutorials/getting-started.html) for a first overview.*;
 
 - **ODM**
-  - **_Learn Doctrine ODM_**: *Doctrine MongoDB Object Document Mapper is built for PHP 5.3.0+ and provides transparent persistence for PHP objects to the popular MongoDB database by 10gen. Look at [this page](http://docs.doctrine-project.org/projects/doctrine-mongodb-odm/en/latest/tutorials/getting-started.html) to get started with Doctrine ODM.*;
+  - **_Learn the basics of Doctrine ODM_**: *Doctrine MongoDB Object Document Mapper is built for PHP 5.3.0+ and provides transparent persistence for PHP objects to the popular MongoDB database by 10gen. Look at [this getting started](http://docs.doctrine-project.org/projects/doctrine-mongodb-odm/en/latest/tutorials/getting-started.html) for a first overview.*;
 
 #### Javascript
 
