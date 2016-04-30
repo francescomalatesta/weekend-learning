@@ -54,6 +54,7 @@ Glad to hear that! Take a look to the [contribution guidelines](CONTRIBUTING.md)
 - **NodeJS**
   - **_Beginner Overview on NodeJS_**: *Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. You probably have seen many articles and sites, here and there on the web, talking about it. I have found [this really good introductory article](http://www.sitepoint.com/a-beginner-splurge-in-node-js/) to move your first steps in this world*;
   - **_Beginner Guide on NPM_**: *npm is the NodeJS tool used to install and manage dependencies. You can use to install packages both locally (for a specific project) and globally (making it available to the entire system). [This article on Sitepoint](http://www.sitepoint.com/beginners-guide-node-package-manager/) is a nice starter to explore it.*;
+  - **_Practice with NodeJS technologies_**: *You can learn Node.js and similar javascript technologies through interactive exercises by simply installing workshops using npm. All the information to do that are in the official site  [Nodeschool](http://nodeschool.io/).*;
 
 #### Tools
 
