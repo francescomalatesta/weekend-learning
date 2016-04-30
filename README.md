@@ -31,6 +31,7 @@ Glad to hear that! Take a look to the [contribution guidelines](CONTRIBUTING.md)
 
 - **_Read about the S.O.L.I.D. principles_**: *never heard of them? Time to fix the bug. As you [can see on Wikipedia](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)), these principles are the very basics of good code in object oriented programming. Nothing really complicated by the way, so choose your favourite language and learn them!*;
 - **_Learn a Design Pattern_**: *design patterns are recurring solutions for common problem in software design. If you don't know them, you can easily [find the book with a search](http://lmgtfy.com/?q=Design+Patterns%3A+Elements+of+Reusable+Object-Oriented+Software) and study a couple of them every weekend. If you don't want to buy the book, don't worry: internet is full of articles about them.*;
+- **_Learn Test driven development (TDD)_**: *is a software development process that relies on the repetition of a very short development cycle. [See more on Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development).*;
 
 #### Protocols
 
@@ -40,6 +41,13 @@ Glad to hear that! Take a look to the [contribution guidelines](CONTRIBUTING.md)
 
 - **Frameworks**
   - **_Learn Laravel Basics_**: *Laravel is a widely used PHP full stack framework that you can use to build a project in a very short time. Sometimes in a weekend. The [Basic Task List](https://laravel.com/docs/5.2/quickstart) page in the documentation can be a perfect start.*;
+  - **_Learn Symfony Basics_**: *Symfony is a set of PHP Components, a Web Application framework, a Philosophy, and a Community — all working together in harmony. The [Symfony Book](http://symfony.com/doc/current/book/index.html) is the main resource to start.*;
+
+- **ORM**
+  - **_Learn Doctrine ORM_**: *Doctrine is an object-relational mapper (ORM) for PHP 5.4+ that provides transparent persistence for PHP objects. It uses the Data Mapper pattern at the heart, aiming for a complete separation of your domain/business logic from the persistence in a relational database management system. Look at [this page](http://docs.doctrine-project.org/projects/doctrine-orm/en/latest/tutorials/getting-started.html) to get started with Doctrine ORM.*;
+
+- **ODM**
+  - **_Learn Doctrine ODM_**: *Doctrine MongoDB Object Document Mapper is built for PHP 5.3.0+ and provides transparent persistence for PHP objects to the popular MongoDB database by 10gen. Look at [this page](http://docs.doctrine-project.org/projects/doctrine-mongodb-odm/en/latest/tutorials/getting-started.html) to get started with Doctrine ODM.*;
 
 #### Javascript
 
