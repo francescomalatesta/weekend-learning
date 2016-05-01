@@ -28,6 +28,7 @@ Many other developers [already added something](https://github.com/francescomala
 - [Javascript](#javascript)
 - [Tools](#tools)
 - [Miscellaneous](#miscellaneous)
+- [Bots](#bots)
 
 #### Methodologies
 
@@ -73,3 +74,7 @@ Many other developers [already added something](https://github.com/francescomala
 #### Miscellaneous
 
 - **_Learn Markdown_**: *Markdown is a plain text formatting syntax designed to be converted to HTML. It's often used for readme files. This list is written in Markdown! [The official specification](http://daringfireball.net/projects/markdown/) can be a good start to learn it.*;
+
+#### Bots
+
+- **_Telegram_**: *Explore Telegram Bot API and run your automated tasks using Telegram Apps. Read [the official API documentation](https://core.telegram.org/bots/)*;
