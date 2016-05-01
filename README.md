@@ -77,4 +77,4 @@ Many other developers [already added something](https://github.com/francescomala
 
 #### Bots
 
-- **_Telegram_**: *Explore Telegram Bot API and run your automated tasks using Telegram Apps. Read [the official API documentation](https://core.telegram.org/bots/api/)*;
+- **_Telegram_**: *Explore Telegram Bot API and run your automated tasks using Telegram Apps. Read [the official API documentation](https://core.telegram.org/bots/)*;
