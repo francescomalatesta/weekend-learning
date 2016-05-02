@@ -39,6 +39,9 @@ Many other developers [already added something](https://github.com/francescomala
 #### Protocols
 
 - **_OAuth2_**: *OAuth2 is an open standard for authorization. It's used to log users into third party services without exposing sensible credentials, like passwords. This [article on DigitalOcean](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2) is a very good overview on the subject, and the [OAuth2 Framework specification](http://tools.ietf.org/html/rfc6749) describes everything in depth.*;
+- **_HAL_**: * HAL is a simple format that gives a consistent and easy way to hyperlink between resources in your API.
+Adopting HAL will make your API explorable, and its documentation easily discoverable from within the API itself. In short, it will make your API easier to work with and therefore more attractive to client developers.
+APIs that adopt HAL can be easily served and consumed using open source libraries available for most major programming languages. It's also simple enough that you can just deal with it as you would any other JSON.[HAL specification](http://stateless.co/hal_specification.html)*;
 
 #### PHP
 
@@ -66,6 +69,7 @@ Many other developers [already added something](https://github.com/francescomala
 
 - **Fundamentals**
   - **_Git_**: *Git is the actual standard for source code versioning. It's like saving your game and resume it from the last checkpoint if something goes wrong... [try this nice start guide](http://rogerdudler.github.io/git-guide/), you'll never go back!*;
+  - **_Git Flow_**: * git-flow are a set of git extensions to provide high-level repository operations for Vincent Driessen's branching model. [try this nice start guide] (http://danielkummer.github.io/git-flow-cheatsheet/index.html)*;
 - **Emails**:
   - **_MJML_**: *[MJML](http://www.mjml.io) is a templating engine by the fine folks at mailjet.com, built on React.js. It enables you to code responsive emails with a really simple but flexible syntax, that will be automatically compiled into HTML tables for you to use in your email marketing service of choice.*;
 - **Virtualization**
