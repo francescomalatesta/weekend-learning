@@ -52,6 +52,12 @@ APIs that adopt HAL can be easily served and consumed using open source librarie
 - **ORM/ODM**
   - **_Learn the basics of Doctrine ORM_**: *Doctrine is an object-relational mapper (ORM) for PHP 5.4+ that provides transparent persistence for PHP objects. It uses the Data Mapper pattern at the heart, aiming for a complete separation of your domain/business logic from the persistence in a relational database management system. Look at [this getting started](http://docs.doctrine-project.org/projects/doctrine-orm/en/latest/tutorials/getting-started.html) for a first overview.*;
   - **_Learn the basics of Doctrine ODM_**: *Doctrine MongoDB Object Document Mapper is built for PHP 5.3.0+ and provides transparent persistence for PHP objects to the popular MongoDB database by 10gen. Look at [this getting started](http://docs.doctrine-project.org/projects/doctrine-mongodb-odm/en/latest/tutorials/getting-started.html) for a first overview.*;
+  
+- **LIBRARY**
+  - **_Guzzle_**: *Guzzle is a PHP HTTP client that makes it easy to send HTTP requests and trivial to integrate with web services. [GitHUB DOCS](http://docs.guzzlephp.org/en/latest/)*; 
+  
+- **OTHER**
+  - **_PHP 7 Install_**: *Installing PHP 7.0.0 is easier than ever.  Here are instructions for installing the latest version on different platforms: [Tutorial](https://www.colinodell.com/blog/2015-12/installing-php-7-0-0)*: 
 
 #### Javascript
 
