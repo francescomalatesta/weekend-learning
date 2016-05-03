@@ -35,6 +35,7 @@ Many other developers [already added something](https://github.com/francescomala
 - **_Read about the S.O.L.I.D. principles_**: *never heard of them? Time to fix the bug. As you [can see on Wikipedia](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)), these principles are the very basics of good code in object oriented programming. Nothing really complicated by the way, so choose your favourite language and learn them!*;
 - **_Learn a Design Pattern_**: *design patterns are recurring solutions for common problem in software design. If you don't know them, you can easily [find the book with a search](http://lmgtfy.com/?q=Design+Patterns%3A+Elements+of+Reusable+Object-Oriented+Software) and study a couple of them every weekend. If you don't want to buy the book, don't worry: internet is full of articles about them.*;
 - **_Learn Test driven development (TDD)_**: *is a software development process that relies on the repetition of a very short development cycle. [See more on Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development).*;
+- **_Functional Programming_**: *ok, I am not talking about something really new, but for sure I am talking about something important. If you are in the group of people who "heart about functional programming, but never got into it" it is probably time to fix this. And [this is a perfect guide](https://drboolean.gitbooks.io/mostly-adequate-guide/content/) to understand its basic. How? With Javascript.*;
 
 #### Protocols
 
