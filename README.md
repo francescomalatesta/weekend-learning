@@ -85,3 +85,4 @@ APIs that adopt HAL can be easily served and consumed using open source librarie
 #### Bots
 
 - **_Telegram_**: *Explore Telegram Bot API and run your automated tasks using Telegram Apps. Read [the official API documentation](https://core.telegram.org/bots/)*;
+- **_Facebook_**: *What about a nice bot that can interact with your users... on Facebook? You can do it now, and this [introductive but complete guide](https://developers.facebook.com/docs/messenger-platform/implementation) could be your perfect next weekend lecture. Have fun!*
