@@ -56,6 +56,8 @@ APIs that adopt HAL can be easily served and consumed using open source librarie
 
 #### Javascript
 
+- **Language**
+    - **_ES2015_**: *the new standard specification for the ECMAScript language, also known as ES6. It brings many improvement to the language, and its implementation in various engines is taking place right now. What about an [awesome overview](https://github.com/lukehoban/es6features) to get started? If it sounds confusing yeah, we're also talking about Javascript*;
 - **NodeJS**
   - **_Beginner Overview on NodeJS_**: *Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. You probably have seen many articles and sites, here and there on the web, talking about it. I have found [this really good introductory article](http://www.sitepoint.com/a-beginner-splurge-in-node-js/) to move your first steps in this world*;
   - **_Beginner Guide on NPM_**: *npm is the NodeJS tool used to install and manage dependencies. You can use to install packages both locally (for a specific project) and globally (making it available to the entire system). [This article on Sitepoint](http://www.sitepoint.com/beginners-guide-node-package-manager/) is a nice starter to explore it*;
