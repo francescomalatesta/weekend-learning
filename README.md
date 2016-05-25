@@ -48,6 +48,7 @@ APIs that adopt HAL can be easily served and consumed using open source librarie
 
 - **Frameworks**
   - **_Learn Laravel Basics_**: *Laravel is a widely used PHP full stack framework that you can use to build a project in a very short time. Sometimes in a weekend. The [Basic Task List](https://laravel.com/docs/5.2/quickstart) page in the documentation can be a perfect start*;
+  - **_Learn Lumen_**: *ok, imagine Laravel... done? Great, now imagine a lighter version of it, a good choice for micro-project and quick experiments. [Here's Lumen](https://lumen.laravel.com/docs/5.2)! As you can imagine, this is not a full-stack framework, but a great thing if you want to build a Laravel based micro service. If you already know Laravel, you'll already have an advantage*;
   - **_Learn Symfony Basics_**: *Symfony is a set of PHP Components, a Web Application framework, a Philosophy, and a Community — all working together in harmony. The [Symfony Book](http://symfony.com/doc/current/book/index.html) is the main resource to start*;
 
 - **ORM/ODM**
