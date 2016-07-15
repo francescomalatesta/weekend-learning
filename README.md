@@ -1,5 +1,7 @@
 # Weekend Learning
 
+![](cover.jpg)
+
 #### A list of things that you can learn in a weekend to improve your skills.
 
 * [Where am I?](#where-am-i)
