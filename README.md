@@ -4,6 +4,10 @@
 
 #### A list of things that you can learn in a weekend to improve your skills.
 
+*Awesome artwork by the awesome [Simona Galizia](http://simonagalizia.com/)*.
+
+---
+
 * [Where am I?](#where-am-i)
 * [I want to contribute!](#i-want-to-contribute)
 * [The List](#the-list)
