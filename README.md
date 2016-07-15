@@ -71,6 +71,8 @@ APIs that adopt HAL can be easily served and consumed using open source librarie
   - **_ReactJS How To_**: *ReactJS is just a "UI Components builder", but it alone is useless. A great resource to study his ecosystem is [Pete Hunt's ReactJS How To](https://github.com/petehunt/react-howto)*;
   - **_Build your First ReactJS App_**: *Egghead created a lot of valid basic ReactJS tutorials. One of these is [Build your first ReactJS App](https://egghead.io/series/build-your-first-react-js-application)*;  
   - **_Container and Presentational Components_**: *building applications with React means building components. While studying them, I have found a really [nice article about the difference between Container and Presentational components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.ybr0faqoi). As a weekend activity, you could study this principle and apply it on a simple starting project*;
+- **Scaffolding**
+    - **_Yeoman_**: *[An amazing and super easy javscript package ](http://yeoman.io/) for create app faster than ever! This tools allow you to generate dinamically files and structures of files, so you won't copy and paste your files renaming all inside them. [Check out some generator samples!](http://yeoman.io/generators/). You'll love it!*
 
 #### Tools
 
